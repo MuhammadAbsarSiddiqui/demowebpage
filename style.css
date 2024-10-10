@@ -1,0 +1,583 @@
+
+.navbar-brand{
+    color: white;
+
+}
+.navbarToggleExternalContent
+{
+    visibility: visible !important;
+
+    background-color: transparent !important;
+
+}
+.repo
+{
+    position: relative;
+    right: 95% !important; 
+}
+.lepo
+{
+    position: relative;
+    left: 95% !important;
+}
+.zero
+{
+    border: 1px solid;
+    width: 100%;
+    height: 700px;
+    background-image: url(https://mobirise.com/extensions/temperm5/music-artist/assets/images/image7.jpg);
+    background-size: 100% 130vh;
+    position: relative;
+}
+
+#myNavbar
+{
+    padding-left: 40px;
+}
+.navbar-toggler-icon{
+    color: white;
+}
+.firsticon
+{
+    /* font-size: 50px; */
+}
+.zero1
+{
+ width: 1000px;
+ height: 200px;
+ color: white;
+ text-align: center;
+ /* z-index: -1; */
+ position: absolute;
+ top: 400px;
+ left: 250px;
+ h1
+ {
+    font-size: 60px;
+ }
+}
+.first
+{
+    border: 1px solid black;
+    background-image: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6sGyleMExYB12QTk58eHoV7DbbRW4Kw8XGL_s3e83BzjQ2Sc8);
+    background-size: 100%;
+    width: 100%;
+    height: 700px;
+    position: relative;
+    display: flex;
+
+}
+.first1
+{ 
+    /* border: 1px solid black; */
+    position: absolute;
+    left: 300px;
+    top: 300px;
+    color: white;
+    z-index: 1;
+    width: 580px;
+}
+.first2
+{
+    border: 1px solid red;
+    position: absolute;
+    left: 750px;
+    top: 200px;
+}
+.first3
+{
+    border: 1px solid black;
+    width: 900px;
+    height: 175px;
+    position: relative;
+    top: 87%;
+    background-color: black;
+    left: 300px;
+    display: flex;
+}
+.one_1
+{
+    border: 1px solid black;
+    width: 225px;
+    height: 175px;
+    background-color: black;
+    position: absolute;
+    color: white;
+    z-index: 5;
+    text-align: center;
+    top: 20%;
+}
+.one_2
+{
+    border: 1px solid black;
+    width: 225px;
+    height: 175px;
+    color: white;
+    position: absolute;
+    background-color: black;
+    left: 225px;
+    z-index: 4;
+    text-align: center;
+    top: 20%;
+}
+.one_3
+{
+    border: 1px solid black;
+    width: 225px;
+    height: 175px;
+    color:white;
+    position: absolute;
+    background-color: black;
+    left: 450px;
+    z-index: 3;
+    text-align: center;
+    top: 20%;
+}.one_4
+{
+    border: 1px solid black;
+    width: 225px;
+    height: 175px;
+    color: white;
+    position: absolute;
+    background-color: black;
+    left: 675px;
+    z-index: 2;
+    text-align: center;
+    top: 20%;
+}
+.second
+{
+    background-color: white;
+    width: 100%;
+    height: 200px;
+}
+.third
+{
+    width: 100%;
+    border: 1px solid ;
+    height: 600px;
+    position: relative;
+}
+.third1{
+    width: 50%;
+    border: 1px solid black;
+    height: 600px;
+    position: absolute;
+    background-color: black;
+}
+.thirdone
+{
+    text-align: center;
+    color: white;
+    /* padding-top: 30%; */
+    position: absolute;
+    top: 170px;
+    left: 280px;
+}
+
+
+.third2
+{
+    width: 50%;
+    border: 1px solid;
+    height: 600px;
+    position: absolute;
+    left: 50%;
+    background-image: url(https://mobirise.com/extensions/temperm5/music-artist/assets/images/image10-1.jpg);
+    background-size: 100%;
+}
+.four
+{
+    border: 1px solid;
+    width: 100%;
+    height: 300px;
+   position: relative;
+   background-color: white;
+   border-color: white;
+   display: flex;
+}
+.four1
+{
+    position: absolute;
+    top: 100px;
+    text-align: center;
+    left: 12%;
+}
+.fourone
+{
+    font-size: 60px;
+    left: 12%;
+}
+.fourtwo
+{
+    font-size: 25px;
+}
+.five
+{
+    border: 1px solid brown;
+    width: 100%;
+    height: 700px;
+    background-color: brown;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    font-size: 30%
+   
+}
+.bt
+{
+    width: 200px;
+    height: 50px;
+    color: white;
+    background-color: red;
+    font-size: large;
+    border-color: red;
+}
+.bt:hover {
+    background-color: darkred;
+    border-color: darkred;
+  }
+.para
+{
+    font-size: large;
+}
+.five1
+{
+    font-size: 60px;
+}
+.six
+{
+    border: 1px;
+    width: 100%;
+    height: 700px;
+    position: relative;
+}
+.six1
+{
+    border: 1px solid black;
+    width: 350px;
+    height: 550px;
+    position: absolute;
+    top: 90px;
+    left: 12%;
+    background-image: url(https://mobirise.com/extensions/temperm5/music-artist/assets/images/image2.jpg);
+    background-size: 100%;
+    color: white;
+    
+    
+}
+.sixone
+{
+    position: absolute;
+    top: 150px;
+    text-align: center;
+    padding: 0% 40px;
+}
+
+
+.six2
+{
+    border: 1px solid black;
+    width: 350px;
+    height: 550px;
+    position: absolute;
+    top: 90px;
+    left: 38.5%;
+    background-image: url(https://mobirise.com/extensions/temperm5/music-artist/assets/images/image3.jpg);
+    background-size: 100%;
+    color: white;
+}
+.sixtwo
+{
+    position: absolute;
+    top: 150px;
+    text-align: center;
+    padding: 0% 40px;
+    left: 20px;
+}
+.six3
+{
+    border: 1px solid black;
+    width: 350px;
+    height: 550px;
+    position: absolute;
+    top: 90px;
+    right: 12%;
+    background-image: url(https://mobirise.com/extensions/temperm5/music-artist/assets/images/image4.jpg);
+    background-size: 100%;
+    color: white;
+}
+.sixthree
+{
+    position: absolute;
+    top: 150px;
+    left: 20px;
+    text-align: center;
+    padding: 0% 40px;
+}
+.b2
+{
+    width: 120px;
+    height: 60px;
+    border-color: white;
+   
+}
+.b2:hover {
+    background-color: darkgray;
+    border-color: darkgrey;
+  }
+.seven
+{
+    width: 100%;
+    height: 700px;
+    background-color: brown;
+    color: white;
+    text-align: center;
+    position: relative;
+    display: flex;
+}
+.sevenone
+{
+    text-align: center;
+    position: absolute;
+    top: 50px;
+    left: 450px;
+    font-size: 60px;
+}
+.seven1
+{
+    
+    width: 700px;
+    height: 100px;
+    
+    position: absolute;
+    top: 100px;
+    left: 400px;
+    display: flexbox;
+}
+.seven1_one
+{
+    width: 233.333333px;
+    height: 100px;
+    text-align: left;
+    position: absolute;
+    left: 0;
+    top: 60px;
+}
+.seven1_two
+{
+    width: 233.333333px;
+    height: 100px;
+    text-align: center;
+    position: absolute;
+    left: 233.333333px;
+    top: 60px;
+}
+.seven1_three
+{
+    width: 233.333333px;
+    height: 100px;
+    text-align: right;
+    position: absolute;
+    left: 466.666666px;
+    top: 60px;
+}
+.seven2
+{
+    width: 700px;
+    height: 100px;
+    position: absolute;
+    top: 210px;
+    left: 400px;
+}
+.seven2_one
+{
+    width: 233.333333px;
+    height: 100px;
+    text-align: left;
+    position: absolute;
+    left: 0;
+    top: 60px;
+}
+.seven2_two
+{
+    width: 233.333333px;
+    height: 100px;
+    text-align: center;
+    position: absolute;
+    left: 233.333333px;
+    top: 60px;
+}
+.seven2_three
+{
+    width: 233.333333px;
+    height: 100px;
+    text-align: right;
+    position: absolute;
+    left: 466.666666px;
+    top: 60px;
+}
+.seven3
+{
+    width: 700px;
+    height: 100px;
+    position: absolute;
+    top: 320px;
+    left: 400px;
+}
+.seven3_one
+{
+    width: 233.333333px;
+    height: 100px;
+    text-align: left;
+    position: absolute;
+    left: 0;
+    top: 60px;
+}
+.seven3_two
+{
+    width: 233.333333px;
+    height: 100px;
+    text-align: center;
+    position: absolute;
+    left: 233.333333px;
+    top: 60px;
+}
+.seven3_three
+{
+    width: 233.333333px;
+    height: 100px;
+    text-align: right;
+    position: absolute;
+    left: 466.666666px;
+    top: 60px;
+}
+.seven4
+{
+    width: 700px;
+    height: 100px;
+    position: absolute;
+    top: 430px;
+    left: 400px;
+}
+.seven4_one
+{
+    width: 233.333333px;
+    height: 100px;
+    text-align: left;
+    position: absolute;
+    left: 0;
+    top: 60px;
+}
+.seven4_two
+{
+    width: 233.333333px;
+    height: 100px;
+    text-align: center;
+    position: absolute;
+    left: 233.333333px;
+    top: 60px;
+}
+.seven4_three
+{
+    width: 233.333333px;
+    height: 100px;
+    text-align: right;
+    position: absolute;
+    left: 466.666666px;
+    top: 60px;
+}
+.b4
+{
+    width: 170px;
+    height: 50px;
+    color: white;
+    background-color: red;
+    font-size: large;
+    border-color: red;
+}
+.b4:hover
+{
+    background-color: darkred;
+    border-color: darkred;
+}
+.eight
+{
+    border: 1px solid;
+    width: 100%;
+    height: 450px;
+    background-color: white;
+    border-color: white;
+    text-align: center;
+    position: relative;
+   display: flex;
+}
+.eight1
+{
+    position: absolute;
+    /* text-align: center; */
+    left: 20%;
+    right: 20%;
+    top: 20%;
+    bottom: 20%;
+}
+.eightone
+{
+    text-align: left;
+    /* position: absolute; */
+    padding-left: 95px;
+}
+.imp1
+{
+    width: 700px;
+    height: 70px;
+    background-color: lightgray;
+    border-color: white;
+
+}
+.imp2
+{
+    width: 350px;
+    height: 60px;
+    background-color: lightgray;
+    border-color: white;
+
+}
+.b3
+{
+    width: 700px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.b3:hover {
+    background-color: red;
+    border-color: red;
+  }
+.nine
+{
+    border: 1px solid;
+    width: 100%;
+    height: 700px;
+    background-image: url(https://mobirise.com/extensions/temperm5/music-artist/assets/images/image6.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+}
+.nine1
+{
+    border: 1px;
+    width: 20%;
+    height: 200px;
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 300px;
+    left: 40%;
+}
+.last
+{
+    font-size: 60px;
+    
+}
